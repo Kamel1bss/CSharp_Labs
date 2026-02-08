@@ -1,0 +1,17 @@
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\bin\Debug\net9.0-windows\Lab08-WinForms.exe
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\bin\Debug\net9.0-windows\Lab08-WinForms.deps.json
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\bin\Debug\net9.0-windows\Lab08-WinForms.runtimeconfig.json
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\bin\Debug\net9.0-windows\Lab08-WinForms.dll
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\bin\Debug\net9.0-windows\Lab08-WinForms.pdb
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08_WinForms.Form1.resources
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08_WinForms.Form10.resources
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.csproj.GenerateResource.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.AssemblyInfoInputs.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.AssemblyInfo.cs
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.dll
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\refint\Lab08-WinForms.dll
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.pdb
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\Lab08-WinForms.genruntimeconfig.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab08-WinForms\obj\Debug\net9.0-windows\ref\Lab08-WinForms.dll
