@@ -1,0 +1,14 @@
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\bin\Debug\net9.0\Lab06.exe
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\bin\Debug\net9.0\Lab06.deps.json
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\bin\Debug\net9.0\Lab06.runtimeconfig.json
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\bin\Debug\net9.0\Lab06.dll
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\bin\Debug\net9.0\Lab06.pdb
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.AssemblyInfo.cs
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.dll
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\refint\Lab06.dll
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.pdb
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\Lab06.genruntimeconfig.cache
+C:\Users\abdo mohamed\source\repos\Visual C#\Lab06\obj\Debug\net9.0\ref\Lab06.dll

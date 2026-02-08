@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KchS943mrQU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdo mohamed\\source\\repos\\Visual C#\\Lab07-WinForms\\Lab07-WinForms\\Lab07-WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdo mohamed\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
